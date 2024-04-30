@@ -1,0 +1,95 @@
+body{
+    
+    background-image: linear-gradient(to top, rgb(2, 11, 66), rgb(0, 0, 0));
+    background-attachment: fixed;
+    font-family: sans-serif;
+    
+    }
+    
+
+
+     #tudo{
+    
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        border-radius: 5px;
+        border: solid 3px black;
+        height: 550px;
+        width: 320px;
+        background-color:#ccc;
+        text-align: center;
+    
+    }
+    #legend{
+    
+    text-align: center;
+    
+    
+    }
+    
+    #botao {
+    
+        text-align: center;
+        
+    }   
+    #botao2{
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        background-color: grey;
+        color: white;
+        border: solid 2px grey;
+        border-radius: 30px;
+       
+    }
+    
+      #botao2:hover {background-color: white; color: gray; border: solid 2px gray;}
+    
+    input{
+    
+    height: 30px;
+    width: 230px;
+    border-radius: 20px;
+    border: solid 2px black;
+   
+    
+    }
+    #caixa{
+    
+    text-align: center;
+    padding-top: 80px;
+    
+    }
+    
+    #resultado{
+    
+    
+    font-size: 20px;
+    
+    
+    } 
+    img{
+
+        height: 80px;
+        width: 80px;
+
+    }
+    .imagem{
+
+        text-align: center;
+        position: absolute;
+           transform: translate(-50%, -50%);
+           top: 95%;
+           left: 50%;
+
+    }
+    
+   

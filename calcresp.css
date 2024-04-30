@@ -1,0 +1,61 @@
+@media screen and (max-width:315px) {
+   
+    #tudo{
+
+        width: 280px;
+        height: 500px;
+
+    }
+    
+    
+    #legend{
+
+        font-size: 18px;
+    }
+
+    #base{
+
+    height: 30px;
+    width: 200px
+           
+
+
+    }
+   
+    #altura{
+
+    height: 30px;
+    width: 200px;
+
+    }
+    #botao2{
+
+        background-color: grey;
+
+    }
+    #botao2:hover{
+
+        background-color: grey;
+        color: #ccc;
+
+    }
+
+
+    }
+
+    @media screen and (max-height:700px) {
+
+        .imagem{
+
+            padding-top: 20px;
+
+        }
+        
+        img{
+            
+            height: 70px;
+            width: 70px;
+
+        }
+
+    }
